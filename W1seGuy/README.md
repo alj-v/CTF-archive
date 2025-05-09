@@ -19,7 +19,9 @@ In this room, I learned about XOR encryption and how brute-force can be used to 
 
 - `solve.py`: Python script I wrote to brute-force the XOR key and recover the flag.
 - `notes.txt`: Some personal insights and things I learned.
-
+- `completed.png`: TryHackMe room marked as completed.
+- `server.png`: Terminal showing the server connection and decrypted flag using the found key.
+- `approach.png`: My solve script + output that cracked the XOR key successfully.
 ---
 
 ## ⚔️ Approach
