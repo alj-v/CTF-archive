@@ -1,21 +1,11 @@
-# CTF Writeups
+## CTF Archive
 
 my walkthroughs and notes as I learn cybersecurity from platforms like:
 
-- TryHackMe
-- HackTheBox
-
-## Structure
-
-CTF-Writeups/
-
-├── TryHackMe/
-
-│ └── challenge-folder/
-
-├── HackTheBox/
-
-│ └── challenge-folder/
+ ✦ TryHackMe  
+ ✦ HackTheBox
 
 
-aleenjoyvettiyadan_
+Each challenge folder contains a README.md with full steps and flags.
+
+> aleenjoyvettiyadan_
